@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-
+#this is testing data
 name = ['Python','Java','C','C++','R','Go','Ruby']
-cnt = [2436,2159,1395,1140,890,745,598]
+cnt = [3070,2777,1395,1111,890,745,598]
 
 xt = np.arange(len(name))
 #---------Draw Bar Chart ---------------
